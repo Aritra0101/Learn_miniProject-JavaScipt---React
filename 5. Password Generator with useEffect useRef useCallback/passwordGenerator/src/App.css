@@ -1,0 +1,7 @@
+input[type="checkbox"] {
+  accent-color: orange;
+}
+
+input[type="range"] {
+  accent-color: orange;
+}
